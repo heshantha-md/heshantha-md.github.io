@@ -10,6 +10,13 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 50px;
 }
+
+.blog-container .blog-grid .chip {
+  width: fit-content;
+  max-width: 100%;
+  align-self: flex-start;
+  margin-right: 5px;
+}
   
 .blog-container .blog-grid .blog {
     text-align: left;
