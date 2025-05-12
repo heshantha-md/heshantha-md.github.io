@@ -11,7 +11,7 @@ function Project() {
                 <div className="project">
                     <a href="https://apps.apple.com/gb/app/buckit/id6744845865" target="_blank" rel="noreferrer"><img src={BuckitLogo} className="zoom" alt="thumbnail" width="100%"/></a>
                     <a href="https://apps.apple.com/gb/app/buckit/id6744845865" target="_blank" rel="noreferrer"><h2>Buckit{" "}<Chip className='chip' label="SwiftUI" /></h2></a>
-                    <p>This app helps you take charge of your financial goals — one bucket at a time. Track your expenses as you go, and make confident spending choices.</p>
+                    <p>This app helps you take charge of your financial goals — one bucket for one purpose. Track your expenses as you go, and make confident spending choices.</p>
                 </div>
                 <div className="project">
                     <a href="https://apps.apple.com/gb/app/mathbet/id6471019545" target="_blank" rel="noreferrer"><img src={MathbetLogo} className="zoom" alt="thumbnail" width="100%"/></a>

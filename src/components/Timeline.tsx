@@ -27,6 +27,17 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="2024"
+            iconStyle={{ background: '#861DBB', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <a href="https://apps.apple.com/gb/developer/heshantha-nadeeshan-mahawaththage-don/id1714663716" target="_blank" rel="noreferrer"><h3 className="vertical-timeline-element-title">Career break – Personal Development</h3></a>
+            <p>Took time away from formal employment. During this period, I remained engaged with the tech industry through self-study, personal projects, and skill maintenance, preparing for my next professional opportunity.</p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
             date="2023"
             iconStyle={{ background: '#861DBB', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
