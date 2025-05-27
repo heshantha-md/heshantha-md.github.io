@@ -73,10 +73,11 @@ function Timeline() {
             <a href="https://www.epictechnology.lk/" target="_blank" rel="noreferrer"><h3 className="vertical-timeline-element-title">Epic Technology</h3></a>
             <h4 className="vertical-timeline-element-subtitle">Colombo, Sri Lanka</h4>
             <p>
-              iOS Developer{" "}
+              Mobile Application Developer {" "}
                 <Chip className='chipDark' label="Swift" />{" "}
                 <Chip className='chipDark' label="Obje-C" />{" "}
-                <Chip className='chipDark' label="UIKit" />
+                <Chip className='chipDark' label="React Native" />{" "}
+                <Chip className='chipDark' label="Flutter" />
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

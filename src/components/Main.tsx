@@ -19,7 +19,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/heshantha-md/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
           </div>
           <h1>Heshantha Don</h1>
-          <p>iOS Mobile Application Developer</p>
+          <p>Mobile Application Developer</p>
           <Chip className='chip' label="Portsmouth, United Kingdom" />
 
           <div className="mobile_social_icons">
