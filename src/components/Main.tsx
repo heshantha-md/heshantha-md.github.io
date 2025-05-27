@@ -16,7 +16,7 @@ function Main() {
             <a href="https://medium.com/@heshantha.don" target="_blank" rel="noreferrer"><FaMedium/></a>
             <a href="https://stackoverflow.com/users/22515763/heshantha-don" target="_blank" rel="noreferrer"><FaStackOverflow/></a>
             <a href="https://github.com/heshantha-don/" target="_blank" rel="noreferrer"><FaGithub/></a>
-            <a href="https://www.linkedin.com/in/heshantha-don/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
+            <a href="https://www.linkedin.com/in/heshantha-md/" target="_blank" rel="noreferrer"><FaLinkedin/></a>
           </div>
           <h1>Heshantha Don</h1>
           <p>iOS Mobile Application Developer</p>

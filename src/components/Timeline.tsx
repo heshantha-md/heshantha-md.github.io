@@ -31,8 +31,8 @@ function Timeline() {
             iconStyle={{ background: '#861DBB', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <a href="https://apps.apple.com/gb/developer/heshantha-nadeeshan-mahawaththage-don/id1714663716" target="_blank" rel="noreferrer"><h3 className="vertical-timeline-element-title">Career break – Personal Development</h3></a>
-            <p>Took time away from formal employment. During this period, I remained engaged with the tech industry through self-study, personal projects, and skill maintenance, preparing for my next professional opportunity.</p>
+            <a href="https://apps.apple.com/gb/developer/heshantha-nadeeshan-mahawaththage-don/id1714663716" target="_blank" rel="noreferrer"><h3 className="vertical-timeline-element-title">Freelancer</h3></a>
+            <p>I offered experienced IT consultancy for App Store submissions, guideline reviews, and enrollments in the Apple Developer Program. Most days, I work on my own projects to stay sharp with Swift and SwiftUI, contribute to the GitHub community, and create new apps to share with the world.</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
